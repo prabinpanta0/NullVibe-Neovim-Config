@@ -1,0 +1,16 @@
+# Ignore plugin and package manager data
+/lazy-lock.json
+/site/
+
+# Ignore swap, backup, and undo files
+*.swp
+*.swo
+*.bak
+*.tmp
+*.undo
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+

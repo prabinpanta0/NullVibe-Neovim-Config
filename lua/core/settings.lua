@@ -1,0 +1,2 @@
+-- Placeholder for settings page implementation
+-- TODO: Add UI and JSON-based settings editor
